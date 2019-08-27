@@ -4,10 +4,83 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
+
+
+
+
 (function($) {
 
 	var	$window = $(window),
 		$body = $('body');
+
+	// Fun Colors
+
+	$("#Raquel").mouseover(function(){
+		$("#Raquel").addClass("grad1");
+	  });
+
+	  $("#ux").mouseover(function(){
+		$("#ux").css('color',"#8b50b3");
+	  });
+
+	  $("#olin").mouseover(function(){
+		$("#olin").css('color',"#00cdcd");
+	  });
+
+	  $("#soc").mouseover(function(){
+		$("#soc").css('color',"#00cd67");
+	  });
+
+	  $("#sie").mouseover(function(){
+		$("#sie").css('color',"#8b50b3");
+	  });
+
+	  $("#pbl").mouseover(function(){
+		$("#pbl").css('color',"#00cdcd");
+	  });
+
+	  $("#e4g").mouseover(function(){
+		$("#e4g").css('color',"#00cd67");
+	  });
+
+	  $("#enirchLink").mouseover(function(){
+		$("#enirchLink").css('color',"#8b50b3");
+	  });
+
+	  $("#olinLink").mouseover(function(){
+		$("#olinLink").css('color',"#00cdcd");
+	  });
+
+	  $("#poeLink").mouseover(function(){
+		$("#poeLink").css('color',"#00cdcd");
+	  });
+
+	  $("#tsLink").mouseover(function(){
+		$("#tsLink").css('color',"#00cd67");
+	  });
+
+
+	  $("#email").mouseover(function(){
+		$("#email").css('color',"#8b50b3");
+	  });
+
+	  $("#phone").mouseover(function(){
+		$("#phone").css('color',"#00cdcd");
+	  });
+
+	  $("#add").mouseover(function(){
+		$("#add").css('color',"#00cd67");
+	  });
+	  
+	  $("#touch").mouseover(function(){
+		$("#touch").addClass("grad1");
+	  });
+
+	  $("#follow").mouseover(function(){
+		$("#follow").addClass("grad1");
+	  });
+
 
 	// Breakpoints.
 		breakpoints({
