@@ -32,6 +32,14 @@
 		$("#soc").css('color',"#00cd67");
 	  });
 
+	  $("#uxd").mouseover(function(){
+		$("#uxd").css('color',"#00cdcd");
+	  });
+
+	  $("#fur").mouseover(function(){
+		$("#fur").css('color',"#00cd67");
+	  });
+
 	  $("#sie").mouseover(function(){
 		$("#sie").css('color',"#8b50b3");
 	  });
@@ -42,6 +50,14 @@
 
 	  $("#e4g").mouseover(function(){
 		$("#e4g").css('color',"#00cd67");
+	  });
+
+	  $("#uxdClass").mouseover(function(){
+		$("#uxdClass").css('color',"#00cdcd");
+	  }); 
+	 
+	  $("#broadLink").mouseover(function(){
+		$("#broadLink").css('color',"#00cd67");
 	  });
 
 	  $("#enirchLink").mouseover(function(){
